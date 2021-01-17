@@ -8,7 +8,7 @@ except:
         API_HASH = "c3e3bdcaf3486d3222dcff67a6ea9a77"
         API_ID = "1600667"
         BOT_TOKEN = "1540012230:AAGPUnIgp4Ppwd6lqjb2zJ2R8-TUn2VRjjc"
-        BASE_URL_OF_BOT = "http://thetorrentRobot.herokuapp.com"
+        BASE_URL_OF_BOT = "https://gautamleecherbot.herokuapp.com/"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [1030989359,-1001206349958]
         
