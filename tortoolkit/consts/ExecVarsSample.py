@@ -22,10 +22,10 @@ except:
         FORCE_DOCUMENTS = False
 
         # Chracter to use as a completed progress 
-        COMPLETED_STR = "🌑"
+        COMPLETED_STR = "▰"
 
         # Chracter to use as a incomplete progress
-        REMAINING_STR = "⚪"
+        REMAINING_STR = "▱"
 
         # DB URI for access
         DB_URI = "postgres://abdzbgwltfziwy:016aea57b883362ef1305b5d340f2ea83dcdf4e958e71f5cedbb020a72b5d81f@ec2-54-157-234-29.compute-1.amazonaws.com:5432/d8j8aptt91frmi"
