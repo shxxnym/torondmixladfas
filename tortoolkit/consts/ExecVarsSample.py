@@ -5,12 +5,12 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "aaea06c47290c6e551d851d4844469e6"
-        API_ID = "2280058"
-        BOT_TOKEN = "1520379734:AAHcqBrDGy_MeCrrCyrry5s0tiXkN04A9go"
+        API_HASH = "c3e3bdcaf3486d3222dcff67a6ea9a77"
+        API_ID = "1600667"
+        BOT_TOKEN = "1540012230:AAGPUnIgp4Ppwd6lqjb2zJ2R8-TUn2VRjjc"
         BASE_URL_OF_BOT = "http://thetorrentRobot.herokuapp.com"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1147526472]
+        ALD_USR = [1030989359,-1001206349958]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
