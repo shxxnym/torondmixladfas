@@ -5,6 +5,14 @@
     "telegram","bot","torrent","leech"
   ],
   "repository": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
+   "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+    ],
   "success_url": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
   "website": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
   
