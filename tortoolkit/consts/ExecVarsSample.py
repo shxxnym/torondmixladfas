@@ -5,18 +5,18 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "c3e3bdcaf3486d3222dcff67a6ea9a77"
-        API_ID = "1600667"
-        BOT_TOKEN = "1540012230:AAGPUnIgp4Ppwd6lqjb2zJ2R8-TUn2VRjjc"
+        API_HASH = "8743fcb30d909f1ece760ebbd03c1bdd"
+        API_ID = "2234188"
+        BOT_TOKEN = "1734765687:AAHpz0y_lPs8OJ47gWxJfiM2j7_m6CmJAow"
         BASE_URL_OF_BOT = "https://gautamleecherbot.herokuapp.com/"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1030989359,-1001206349958]
+        ALD_USR = [820569976,-1001428771862]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
 
         # Telegram Upload Limit (in bytes)
-        TG_UP_LIMIT = 1800000000
+        TG_UP_LIMIT = 1700000000
 
         # Should force evething uploaded into Document
         FORCE_DOCUMENTS = False
